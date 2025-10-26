@@ -1,6 +1,6 @@
 {
-  "name": "Antibio-CLASH",
-  "short_name": "Antibio-CLASH",
+  "name": "Antibio ICU - SARIC",
+  "short_name": "Antibio ICU - SARIC",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
